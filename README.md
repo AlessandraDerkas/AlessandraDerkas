@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlessandraDerkas
+- 👀 I’m interested in  aprender novas linguagens
+- 🌱 I’m currently learning  a disciplina de Pensamento Computacional
+- 📫 How to reach me : alessandra.derkas@escola.pr.gov.br 
